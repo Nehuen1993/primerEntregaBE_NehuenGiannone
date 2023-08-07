@@ -1,0 +1,20 @@
+{
+  "name": "primer-entrega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "file": "^0.2.2",
+    "fs": "^0.0.1-security",
+    "sistem": "^1.0.6",
+    "util": "^0.12.5"
+  }
+}
