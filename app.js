@@ -4,7 +4,7 @@ const carritoRouter = require("./src/routes/carrito.router.js")
 const path = require('path')
 
 const app = express()
-const PORT = 8084
+const PORT = 8080
 
 app.use((express.json()))
 app.use(express.urlencoded({extended: true}))
